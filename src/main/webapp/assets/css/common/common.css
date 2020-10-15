@@ -1,0 +1,31 @@
+.col-form-label{ font-size: .85rem; color: #212529; text-align: left;}
+
+.mytb-col{}
+.mytb-col.strong {font-weight: bold;}
+
+
+a.tb-op {margin-left: 1rem; font-size: 1rem; color: #0095d9;}
+			a.tb-op.remove {color: #c9171e;}
+			
+			.myBtn-ok-1 {background-color: #2ca9e1; color: #fff}
+			.myBtn-ok-1:hover {background-color: #0095d9;}
+			
+			.myBtn-cacel-1 {color: #595857; }
+			
+			#user-form label { text-align: center;}
+			
+			body.modal-open .fixed-top,body.modal-open .fixed-bottom {padding-right: 15px!important;}
+			i.fa-mars{color: #2792c3; font-weight: bold;}
+			i.fa-venus{color: #e198b4; font-weight: bold;}
+
+/* 图片文件上传组件样式 */
+.img-upload-area {
+	width: 200px; 
+	height: auto; 
+	border: 1px solid rgb(204, 204, 204); 
+	padding: 10px; 
+	cursor: pointer;
+}
+
+/* bootstrap 表单 */
+.input-group-append, .input-group-prepend {display: block;}
